@@ -188,4 +188,3 @@ while True:
 
 ##__name__ == '__main__'
 __author__ = "RS4950"
-__email__ = "iliankukov@gmail.com"
