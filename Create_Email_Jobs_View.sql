@@ -11,7 +11,7 @@ SELECT[mbox]
       ,[job_name]
       ,[args]
 	  ,[id]
-  FROM [CS_HP].[dbo].[sys_email_download]
+  FROM [dbo].[sys_email_download]
   WHERE [on]=1
 
 GO
