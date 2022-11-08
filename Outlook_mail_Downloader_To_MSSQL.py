@@ -187,4 +187,4 @@ while True:
     time.sleep(15)
 
 ##__name__ == '__main__'
-__author__ = "RS4950"
+__author__ = "IlianKukov"
