@@ -12,6 +12,4 @@ CREATE TABLE [dbo].[sys_email_download](
 	[on] [int] NULL,
 	[id] [int] IDENTITY(1,1) NOT NULL
 ) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-ALTER TABLE [dbo].[sys_email_download] ADD  DEFAULT ((1)) FOR [on]
-GO
+
